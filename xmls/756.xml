@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Research Direction="高分软件大赛" ImageName="1.tif">
+   <Department>参赛单位</Department>
+   <Date>2017-7-10</Date>
+   <PluginName>目标识别</PluginName>
+   <PluginClass>检测</PluginClass>
+   <Results Coordinate="Pixel">
+      <Object>tank</Object>
+      <tank_name tank_name="2"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="449" LeftTopY="712" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="576" LeftTopY="712" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="576" LeftTopY="839" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="449" LeftTopY="839" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+      <Object>tank</Object>
+      <tank_name tank_name="1"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="725" LeftTopY="847" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="852" LeftTopY="847" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="852" LeftTopY="974" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="725" LeftTopY="974" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+      <Object>tank</Object>
+      <tank_name tank_name="3"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="831" LeftTopY="1482" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="958" LeftTopY="1482" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="958" LeftTopY="1609" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="831" LeftTopY="1609" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+      <Object>tank</Object>
+      <tank_name tank_name="2"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="636" LeftTopY="1143" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="763" LeftTopY="1143" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="763" LeftTopY="1270" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="636" LeftTopY="1270" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+      <Object>tank</Object>
+      <tank_name tank_name="1"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="1028" LeftTopY="611" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="1155" LeftTopY="611" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="1155" LeftTopY="738" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="1028" LeftTopY="738" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+      <Object>tank</Object>
+      <tank_name tank_name="1"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="1098" LeftTopY="1341" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="1225" LeftTopY="1341" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="1225" LeftTopY="1468" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="1098" LeftTopY="1468" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+   </Results>
+</Research>

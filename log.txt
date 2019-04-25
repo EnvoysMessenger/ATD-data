@@ -1,0 +1,8 @@
+python train.py train  --dataset=./dataset --weights=coco
+
+python train.py splash --weights=./logs/mask_rcnn_weight.h5 --image=./testimage/1.jpg
+
+重新制作数据集之后记得重命名json文件，并在开头添加'{'，结尾去掉'，',并添加'}'
+训练和验证两边都要做
+
+python train.py train  --dataset=./datasets/complete_dataset/dataset --weights=coco

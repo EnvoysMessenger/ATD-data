@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Research Direction="高分软件大赛" ImageName="1.tif">
+   <Department>参赛单位</Department>
+   <Date>2017-7-10</Date>
+   <PluginName>目标识别</PluginName>
+   <PluginClass>检测</PluginClass>
+   <Results Coordinate="Pixel">
+      <Object>tank</Object>
+      <tank_name tank_name="3"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="288" LeftTopY="1125" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="415" LeftTopY="1125" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="415" LeftTopY="1252" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="288" LeftTopY="1252" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+      <Object>tank</Object>
+      <tank_name tank_name="1"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="114" LeftTopY="1276" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="241" LeftTopY="1276" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="241" LeftTopY="1403" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="114" LeftTopY="1403" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+      <Object>tank</Object>
+      <tank_name tank_name="1"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="810" LeftTopY="1527" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="937" LeftTopY="1527" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="937" LeftTopY="1654" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="810" LeftTopY="1654" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+   </Results>
+</Research>

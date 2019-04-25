@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Research Direction="高分软件大赛" ImageName="1.tif">
+   <Department>参赛单位</Department>
+   <Date>2017-7-10</Date>
+   <PluginName>目标识别</PluginName>
+   <PluginClass>检测</PluginClass>
+   <Results Coordinate="Pixel">
+      <Object>tank</Object>
+      <tank_name tank_name="1"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="356" LeftTopY="1527" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="483" LeftTopY="1527" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="483" LeftTopY="1654" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="356" LeftTopY="1654" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+      <Object>tank</Object>
+      <tank_name tank_name="3"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="436" LeftTopY="764" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="563" LeftTopY="764" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="563" LeftTopY="891" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="436" LeftTopY="891" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+      <Object>tank</Object>
+      <tank_name tank_name="1"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="562" LeftTopY="396" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="689" LeftTopY="396" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="689" LeftTopY="523" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="562" LeftTopY="523" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+      <Object>tank</Object>
+      <tank_name tank_name="3"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="1010" LeftTopY="80" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="1137" LeftTopY="80" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="1137" LeftTopY="207" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="1010" LeftTopY="207" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+      <Object>tank</Object>
+      <tank_name tank_name="3"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="1263" LeftTopY="479" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="1390" LeftTopY="479" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="1390" LeftTopY="606" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="1263" LeftTopY="606" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+      <Object>tank</Object>
+      <tank_name tank_name="3"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="926" LeftTopY="266" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="1053" LeftTopY="266" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="1053" LeftTopY="393" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="926" LeftTopY="393" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+      <Object>tank</Object>
+      <tank_name tank_name="2"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="794" LeftTopY="1610" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="921" LeftTopY="1610" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="921" LeftTopY="1737" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="794" LeftTopY="1737" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+      <Object>tank</Object>
+      <tank_name tank_name="1"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="632" LeftTopY="660" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="759" LeftTopY="660" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="759" LeftTopY="787" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="632" LeftTopY="787" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+      <Object>tank</Object>
+      <tank_name tank_name="3"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="273" LeftTopY="1112" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="400" LeftTopY="1112" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="400" LeftTopY="1239" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="273" LeftTopY="1239" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+      <Object>tank</Object>
+      <tank_name tank_name="1"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="159" LeftTopY="1182" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="286" LeftTopY="1182" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="286" LeftTopY="1309" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="159" LeftTopY="1309" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+      <Object>tank</Object>
+      <tank_name tank_name="3"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="1342" LeftTopY="154" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="1469" LeftTopY="154" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="1469" LeftTopY="281" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="1342" LeftTopY="281" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+      <Object>tank</Object>
+      <tank_name tank_name="2"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="701" LeftTopY="1248" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="828" LeftTopY="1248" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="828" LeftTopY="1375" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="701" LeftTopY="1375" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+      <Object>tank</Object>
+      <tank_name tank_name="3"/>
+      <Pixel Coordinate="X and Y">
+         <Pt Index="1" LeftTopX="52" LeftTopY="1042" RightBottomX="" RightBottomY=""/>
+         <Pt Index="2" LeftTopX="179" LeftTopY="1042" RightBottomX="" RightBottomY=""/>
+         <Pt Index="3" LeftTopX="179" LeftTopY="1169" RightBottomX="" RightBottomY=""/>
+         <Pt Index="4" LeftTopX="52" LeftTopY="1169" RightBottomX="" RightBottomY=""/>
+      </Pixel>
+   </Results>
+</Research>
